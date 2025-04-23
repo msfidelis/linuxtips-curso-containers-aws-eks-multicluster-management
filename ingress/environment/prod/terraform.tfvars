@@ -10,8 +10,8 @@ ssm_subnets = [
 ]
 
 routing_weight = {
-  cluster_01 = 0
-  cluster_02 = 100
+  cluster_01 = 50
+  cluster_02 = 50
 }
 
 route53_hosted_zone = "Z102505525LUE9SZ7HWTY"

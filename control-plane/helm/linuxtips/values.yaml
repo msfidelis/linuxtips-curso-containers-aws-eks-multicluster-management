@@ -6,7 +6,7 @@ app:
     tag: latest
     pullPolicy: IfNotPresent
   createNamespace: true
-  iam: ""
+  iam: "dummy-iam-role"
 
 
 
